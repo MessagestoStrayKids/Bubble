@@ -57,11 +57,12 @@ ul {
 		text-align: left;
 		}
 	h5 {
+		background: linear-gradient(45deg, rgba(67, 67, 67, 1) 5%, rgba(215, 215, 215, 1) 90%);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
 		text-align: left;
-		text-decoration: underline;
-		color: #FFFFFF;
 		font-family: 'Bakbak One';
-		font-size: 24px;
+		font-size: 20px;
 		}
 	@media only screen and (max-width: 767px) {
 		body {
