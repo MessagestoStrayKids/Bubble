@@ -100,6 +100,7 @@
 
 		.my-div {
 		  background-color: black;
+		background-clip: content-box;
 		}
 
 		table {
