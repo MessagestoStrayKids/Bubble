@@ -99,8 +99,9 @@
 		}
 
 		.my-div {
-		  background-color: black;
-		-webkit-background-clip: content-box;
+		  background-clip: content-box;
+			background-color: black;
+		
 		}
 
 		table {
