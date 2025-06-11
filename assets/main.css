@@ -104,9 +104,9 @@
 		
 		}
 
-.blkbgd {
+span {
 		background-color: black;
-		
+    z-index: -1;
 		}
 
 		table {
