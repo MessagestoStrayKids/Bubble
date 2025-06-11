@@ -99,7 +99,7 @@
 		}
 
 		.my-div {
-		  -webkit-background-clip: content-box;
+		  background-clip: padding-box;
 			background-color: black;
 		
 		}
