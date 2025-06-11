@@ -101,9 +101,8 @@
 
 		.my-div {
 			display: table; /* keep the background color wrapped tight */
-	text-align: left;
+			table-align: left;
     margin: 0px auto 0px auto; /* keep the table centered */
-    padding:5px;
 			background-color: black;
 		
 		}
