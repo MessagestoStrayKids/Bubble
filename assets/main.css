@@ -92,7 +92,7 @@
 		background-size: cover;
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
-		
+		z-index: 950;
 		text-align: left;
 		font-family: 'Bakbak One';
 		font-size: 20px;
@@ -106,7 +106,7 @@
 
 span {
 		background-color: black;
-    z-index: -1;
+    z-index: 900;
 		}
 
 		table {
