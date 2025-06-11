@@ -100,14 +100,10 @@
 		}
 
 		.my-div {
-		  background-clip: padding-box;
 			background-color: black;
 		
 		}
 
-span {		
-		background-color: black;
-		}
 
 		table {
 		border-collapse: seperate;
