@@ -106,7 +106,7 @@
 
 span {
 		background-color: black;
-    z-index: 900;
+    		z-index: -200;
 		}
 
 		table {
