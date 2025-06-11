@@ -94,19 +94,10 @@
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 		z-index: 950;
-		text-align: left;
+		text-align: center;
 		font-family: 'Bakbak One';
 		font-size: 20px;
 		}
-
-		.my-div {
-			display: table; /* keep the background color wrapped tight */
-			table-align: left;
-    margin: 0px auto 0px auto; /* keep the table centered */
-			background-color: black;
-		
-		}
-
 
 		table {
 		border-collapse: seperate;
